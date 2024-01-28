@@ -89,7 +89,9 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ## More Info.
 
+<kbd>
 <a href="url"><img src="https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step2.png" alt="your-image-description" height="auto" width="600" style="border-radius: 50%"></a>
+</kbd>
 
 ### Comments for your SQL file:
 
