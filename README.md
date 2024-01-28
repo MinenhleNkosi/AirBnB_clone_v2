@@ -89,7 +89,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ## More Info.
 
-<img src="[image.jpg](https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step2.png)" alt="your-image-description" style="border-radius: 5px solid  gray;">
+<img src="https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step2.png" alt="your-image-description" style="border-radius: 5px solid  gray;">
 
 ### Comments for your SQL file:
 
